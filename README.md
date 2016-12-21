@@ -7,3 +7,4 @@ Wykorzystane technologie:
 3. Baza danych Oracle 11g.
 4. Bootstrap 3.3.7 - implementacja widoków. 
 5. Apache Tomcat 9.
+6. Maven.
