@@ -1,1 +1,1 @@
-# Spring-Hibernate---rejestracja
+# Spring + Hibernate - rejestracja
